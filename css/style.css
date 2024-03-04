@@ -1,0 +1,43 @@
+@font-face{
+    font-family:'cake';
+    src:url(../Skincake.ttf);
+    font-weight: bold;
+
+}
+header i{
+    font-size: 30px;
+    color: rgb(255, 255, 255);
+    padding: 1%;
+    
+}
+header i:hover{
+    color: rgb(223, 230, 27);
+}
+
+div h5{
+    color: rgb(0, 0, 0);
+    font-size: 50px;
+    font-family: 'cake', Geneva, Tahoma, sans-serif;
+    background-color: rgb(173, 179, 174);
+}
+div p{
+    font-size: 20px;
+    justify-content: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif,;
+    text-decoration: solid ;
+}
+footer i{
+    font-size: 30px;
+    color: rgb(255, 255, 255);
+    padding: 1%;
+    
+}
+footer i:hover{
+    color: rgb(171, 3, 3);
+}
+div h2{
+    color: rgb(0, 0, 0);
+    font-size: 50px;
+    font-family: 'cake', Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
